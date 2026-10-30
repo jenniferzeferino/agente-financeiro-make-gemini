@@ -19,7 +19,7 @@ Em rotinas operacionais e financeiras, a validação de planilhas de fechamento 
 3. **Análise Preditiva (Gemini API):** O modelo avalia a margem, compara com limites históricos e classifica o risco (`BAIXO`, `MÉDIO`, `ALTO`).
 4. **Alerta:** Caso o risco seja MÉDIO ou ALTO, um resumo executivo com a causa raiz do desvio é enviado automaticamente ao gestor responsável.
 
-## 📈 Impacto de Negócio Medível
+##  Impacto de Negócio Medível
 - **Economia de Tempo:** Redução de até 80% do tempo gasto em conferências manuais de planilhas.
 - **Prevenção de Perdas:** Identificação imediata de cobranças indevidas ou erros de repasse.
 - **Custo zero de infraestrutura:** Construído totalmente com ferramentas de nível gratuito e alta escalabilidade.
